@@ -1,0 +1,4 @@
+# Demo media is served from GitHub (raw URLs in the README) — keep it out of
+# the published package archive.
+doc/demo.mp4
+doc/demo.gif

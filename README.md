@@ -8,9 +8,9 @@ sampled from text, icons, or images, then **arrive** into the shape, **morph**
 between shapes, **flee** from your touch, and **escape** off-screen - all driven
 by one `drawRawPoints` call and a tight structure-of-arrays engine.
 
-> ▶️ **Full-quality recording:** the GIF above is a sped-up preview.
+[<img src="https://raw.githubusercontent.com/justkawal/animated_particles/main/doc/demo.gif" width="300" alt="animated_particles demo — particles forming and morphing between text, icons and shapes">](https://github.com/justkawal/animated_particles/blob/d55e47e5dcd8b8d071fa151e62762dcbabe0f7ba/doc/demo.mp4)
 
-<video src="https://raw.githubusercontent.com/justkawal/animated_particles/main/particle_field/doc/demo.mp4" controls muted width="300"></video>
+> ▶️ The GIF is a 2× sped-up preview — **[watch the full-quality recording (mp4)](https://github.com/justkawal/animated_particles/blob/d55e47e5dcd8b8d071fa151e62762dcbabe0f7ba/doc/demo.mp4)**.
 
 ---
 
