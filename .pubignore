@@ -2,3 +2,5 @@
 # the published package archive.
 doc/demo.mp4
 doc/demo.gif
+build/
+test/
